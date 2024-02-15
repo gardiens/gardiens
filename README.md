@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @gardiens
-- 👀 I’m interested in quantum computing, Artificial intelligence and everything around it ! 
-- 🌱 I’m currently learning Computer Science at CentraleSupélec
--
-- 📫 How to reach me on linkedin Pierrick Bournez
+#  Pierrick Bournez 
+[![LinkedIn](https://img.shields.io/badge/My_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/valentingoldite](https://www.linkedin.com/in/pierrick-bournez/?originalSubdomain=fr))
 
-<!---
-gardiens/gardiens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Welcome to my Github profile! ✨
+
+Welcome :) 
+---
+
+## Some words about me
+
+My name is **Pierrick Bournez ** and I am a french **Deep Learning** student passionate by deep learning and specialized in applied mathematics. 
+
+My curriculum:
+
+- **Student at [**CentraleSupélec**](https://www.centralesupelec.fr/)** :man_student:: top 3 french Engineer School (Deep Learning lessons and many more) - *3 years*
+
+- **Deep Learning engineer at [Austrian Institute of Technology ]([https://www.sysnav.fr/](https://www.ait.ac.at/en/))** 🧭: Cloud points semantic segmentation on UAV - *6 months*
+
