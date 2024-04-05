@@ -15,5 +15,5 @@ My curriculum:
 
 - **Student at [**CentraleSupélec**](https://www.centralesupelec.fr/)** :man_student:: top 3 french Engineer School (Deep Learning lessons and many more) - *3 years*
 
-- **Deep Learning engineer at [Austrian Institute of Technology ]([https://www.sysnav.fr/](https://www.ait.ac.at/en/))** 🧭: Cloud points semantic segmentation on UAV - *6 months*
+- **Deep Learning engineer at [Austrian Institute of Technology ]([https://www.sysnav.fr/](https://www.ait.ac.at/en/))** 🧭: Deep Learning on Cloud Points  - *6 months*
 
