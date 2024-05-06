@@ -9,7 +9,7 @@ Welcome :)
 
 ## Some words about me
 
-My name is **Pierrick Bournez ** and I am a french **Deep Learning** student passionate by deep learning and specialized in applied mathematics. 
+My name is **Pierrick Bournez ** and I am a french **Deep Learning** student passionate about deep learning and specialized in applied mathematics. 
 
 My curriculum:
 
