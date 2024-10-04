@@ -3,7 +3,7 @@
 
 
 ## Welcome to my Github profile! ✨
-
+I have a cool website [here](https://gardiens.vercel.app/à
 Welcome :) 
 ---
 
@@ -13,7 +13,7 @@ My name is **Pierrick Bournez ** and I am a french **Deep Learning** student pas
 
 My curriculum:
 
-- **Student at [**CentraleSupélec**](https://www.centralesupelec.fr/)** :man_student:: top 3 french Engineer School (Deep Learning lessons and many more) - *3 years*
+- **Student at [*CentraleSupélec*](https://www.centralesupelec.fr/)** :man_student:: top 3 french Engineer School (Deep Learning lessons and many more) - *3 years*
 
 - **Deep Learning engineer at [Austrian Institute of Technology ]([https://www.sysnav.fr/](https://www.ait.ac.at/en/))** 🧭: Deep Learning on Cloud Points  - *6 months*
 
