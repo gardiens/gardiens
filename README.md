@@ -18,6 +18,7 @@ My curriculum:
 
 - **Student at [*CentraleSupélec*](https://www.centralesupelec.fr/)** :man_student:: top 3 french Engineer School (Deep Learning lessons and many more) - *3 years*
 
-- **Deep Learning engineer at [Austrian Institute of Technology ]([https://www.sysnav.fr/](https://www.ait.ac.at/en/))** 🧭: Deep Learning on Cloud Points, we published a paper !   - *1 year*
+- **Deep Learning engineer at [Laboratoire interdisciplinaire du numérique ](https://www.lisn.upsaclay.fr/)** 🧭: Time series Transformers for human skeleton forecasting, we published a paper at a Junior conference !   - *2 months*
+- **Deep Learning engineer at [Austrian Institute of Technology ](https://www.ait.ac.at/en/)** 🧭: Deep Learning on Cloud Points, we published a paper !   - *1 year*
 
 I have a cool website [here](https://gardiens.vercel.app/)
