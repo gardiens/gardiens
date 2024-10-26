@@ -1,5 +1,6 @@
 #  Pierrick Bournez 
-[![LinkedIn](https://img.shields.io/badge/My_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/valentingoldite](https://www.linkedin.com/in/pierrick-bournez/?originalSubdomain=fr))
+[![LinkedIn](https://img.shields.io/badge/My_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierrick-bournez/)
+
 
 
 ## Welcome to my Github profile! ✨
