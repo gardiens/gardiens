@@ -13,7 +13,7 @@ Welcome :)
 My name is *Pierrick Bournez* and I am a french **Deep Learning** student passionate about deep learning and specialized in applied mathematics. 
 
 
-If you are looking for a master student in 2D/3D for May 2025, feel free to reach me :') 
+I am a master student looking for a master thesis in 2D/3D for May 2025, feel free to reach me :') 
 
 
 
