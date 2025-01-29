@@ -12,6 +12,7 @@ I have a cool website [here](https://gardiens.vercel.app/)
 ## Some words about me
 
 My name is *Pierrick Bournez* and I am a french **Deep Learning** student passionate about deep learning and specialized in applied mathematics. 
+I really like everything related to Computer Vision and rendering :) 
 
 
 I am a master student looking for a master thesis in 2D/3D for May 2025, feel free to reach me :') 
