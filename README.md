@@ -15,7 +15,7 @@ My name is *Pierrick Bournez* and I am a french **Deep Learning** student passio
 I really like everything related to Computer Vision and rendering :) 
 
 
-I am a master student looking for a master thesis in 2D/3D for May 2025, feel free to reach me :') 
+
 
 
 
