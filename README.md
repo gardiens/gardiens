@@ -25,7 +25,7 @@ I really like everything related to Computer Vision and rendering :)
 ### My curriculum:
 
 
-- *(current) phd* at [Safran](https://www.safran-group.com/fr) and [MICS](https://mics.centralesupelec.fr/) 🕵 : Researching multimodal LLMs for anomaly detection.
+- *PhD Researcher* at [Safran](https://www.safran-group.com/fr) and [MICS](https://mics.centralesupelec.fr/) 🕵 : Researching multimodal LLMs for anomaly detection.
 - **Deep Learning engineer at [Centre Borelli ](https://centreborelli.ens-paris-saclay.fr/fr)** 🛰️ :Worked on 3D Gaussian Splatting for satellite imaging, we published a [paper](https://arxiv.org/abs/2511.16542) !   - *1 years*
  
 - **Deep Learning engineer at [Austrian Institute of Technology ](https://www.ait.ac.at/en/)** 🧭: Deep Learning on Cloud Points, we published a [paper](https://isprs-archives.copernicus.org/articles/XLVIII-2-W8-2024/45/2024/) and [this one](https://isprs-archives.copernicus.org/articles/XLVIII-2-W11-2025/47/2025/isprs-archives-XLVIII-2-W11-2025-47-2025.pdf) !   - *1 year*
