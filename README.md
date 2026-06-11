@@ -1,19 +1,22 @@
-#  Pierrick Bournez 
-[![LinkedIn](https://img.shields.io/badge/My_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierrick-bournez/)
-
+# Hi, I'm Pierrick Bournez 👋
 
 
 ## Welcome to my Github profile! ✨
 
 Welcome :) 
 ---
-I have a cool website [here](https://gardiens.vercel.app/).
+I'm a French Deep Learning Engineer passionate about artificial intelligence, applied mathematics, computer vision, and rendering.
+
+🌐 Check out my personal website: https://gardiens.vercel.app/
+
+[![LinkedIn](https://img.shields.io/badge/My_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierrick-bournez/)
+
 
 Feel free to get in touch ! 
 
 ## Some words about me
 
-My name is *Pierrick Bournez* and I am a french **Deep Learning** engineer passionate about deep learning and specialized in applied mathematics. 
+My name is Pierrick Bournez, and I am currently pursuing a PhD focused on multimodal large language models for anomaly detection.
 I really like everything related to Computer Vision and rendering :) 
 
 
@@ -24,7 +27,7 @@ I really like everything related to Computer Vision and rendering :)
 ### My curriculum:
 
 
-
+- *(current) phd* at [Safran](https://www.safran-group.com/fr) and [MICS](https://mics.centralesupelec.fr/) 🕵 : Researching multimodal LLMs for anomaly detection.
 - **Deep Learning engineer at [Centre Borelli ](https://centreborelli.ens-paris-saclay.fr/fr)** 🛰️ :Worked on 3D Gaussian Splatting for satellite imaging, we published a [paper](https://arxiv.org/abs/2511.16542) !   - *1 years*
  
 - **Deep Learning engineer at [Austrian Institute of Technology ](https://www.ait.ac.at/en/)** 🧭: Deep Learning on Cloud Points, we published a [paper](https://isprs-archives.copernicus.org/articles/XLVIII-2-W8-2024/45/2024/) and [this one](https://isprs-archives.copernicus.org/articles/XLVIII-2-W11-2025/47/2025/isprs-archives-XLVIII-2-W11-2025-47-2025.pdf) !   - *1 year*
