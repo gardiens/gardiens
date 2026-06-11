@@ -3,8 +3,6 @@
 
 ## Welcome to my Github profile! ✨
 
-Welcome :) 
----
 I'm a French Deep Learning Engineer passionate about artificial intelligence, applied mathematics, computer vision, and rendering.
 
 🌐 Check out my personal website: https://gardiens.vercel.app/
